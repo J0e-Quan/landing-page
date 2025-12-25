@@ -1,3 +1,30 @@
+@font-face {
+    font-family: 'Inter';
+    src: url(./fonts/InterVariable.woff2)
+    format('woff2-variations');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url(./fonts/InterVariable-Italic.woff2)
+    format('woff2-variations');
+    font-weight: 100 900;
+    font-style: italic;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Outfit';
+    src: url(./fonts/Outfit[wght].woff2)
+    format('woff2-variations');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: block;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -11,13 +38,13 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Inter', 'Noto Sans', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-weight: 200;
     color: azure;
 }
 
 a, p {
-    font-family: 'Inter', 'Noto Sans', sans-serif;
+    font-family: 'Outfit', serif;
     color: azure;
 }
 
@@ -85,7 +112,7 @@ h2 {
 }
 
 .info-card {
-    background-color: #e3d1b3;
+    background-color: #dbc091;
     display: flex;
     flex-direction: column;
     padding: 36px 76px;
@@ -121,6 +148,7 @@ h2 {
 }
 
 .quote-text {
+    font-family: 'Inter', sans-serif;
     padding: 64px 64px 12px 64px;
     font-weight: 200;
     font-size: 48px;
