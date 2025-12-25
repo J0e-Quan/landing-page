@@ -18,4 +18,4 @@ Live demo link: https://j0e-quan.github.io/landing-page/
  - All pictures used were my own photos
 
  ## Gallery:
- ![Picture showing the full layout of the landing page](./readme-assets/landing-page.png)
+ ![Picture showing the full layout of the landing page](./readme-assets/landing-page-fixed.png)
