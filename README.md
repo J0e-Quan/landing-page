@@ -6,7 +6,7 @@ Live demo link: https://j0e-quan.github.io/landing-page/
 ## Technologies used:
  - HTML for basic page layout
  - CSS for styling and organisation with Flexbox
- - Self-hosted fonts (Inter for headings, Outfit for body text)
+ - Self-hosted fonts (Inter for headings, Urbanist for body text)
  - Git for version control
 
 ## Key features:
