@@ -19,3 +19,7 @@ Live demo link: https://j0e-quan.github.io/landing-page/
 
  ## Gallery:
  ![Picture showing the full layout of the landing page](./readme-assets/landing-page-fixed.png)
+
+ ## Getting started:
+1. clone this repo in your desired folder: `git clone https://github.com/J0e-Quan/landing-page.git`
+2. open index.html in your browser to run the code
